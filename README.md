@@ -177,6 +177,11 @@ Running `npm run eject` copies all the configuration files and the transitive de
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+Ejecting removes some automatic functionality like:
+
+* Automatic registration of src/setupTests.js
+* ... (what else?)
+
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Limitations
